@@ -31,4 +31,4 @@ i created stacking faceted bars and deemed then unsuitable
 i also creaed a box plot to show variaton
 i created a parellel coordinates plot to show movement over the years and ages
 i created bar charts for gender, disability, region, educational status and home owndership
-
+i decided to create a heatmap to enphasise disability 
