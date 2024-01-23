@@ -32,3 +32,6 @@ i also creaed a box plot to show variaton
 i created a parellel coordinates plot to show movement over the years and ages
 i created bar charts for gender, disability, region, educational status and home owndership
 i decided to create a heatmap to enphasise disability 
+to highlight the sheer difference in disabled vs non disbaled depression symptoms, i used mann whitney u then added a t test
+i could not present my dataframe directly into the code so i had to create another
+the tests showed a small p value indicating the sheer difference
