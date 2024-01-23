@@ -9,6 +9,8 @@ pandas
 seaborn 
 matplotlib pyplot
 plotlyexpress
+from scipy.stats import f_oneway
+
 
 i placed the file into a variable
 i first used one sheet from the entire excel file
@@ -35,3 +37,10 @@ i decided to create a heatmap to enphasise disability
 to highlight the sheer difference in disabled vs non disbaled depression symptoms, i used mann whitney u then added a t test
 i could not present my dataframe directly into the code so i had to create another
 the tests showed a small p value indicating the sheer difference
+i then decided to do an anova test
+i had to import 'from scipy.stats import f_oneway' 
+i used the website geeksforgeeks to navigate how to do this as a reference
+again i decided to create a whole new dataframe 
+this time i was viewing the changes across the year
+for men  and women, i couldnt disprove the null hypothesis of any significant change over the years
+
